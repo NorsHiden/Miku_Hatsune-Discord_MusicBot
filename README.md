@@ -1,5 +1,5 @@
 # Discord Music Bot
-**Miku Hatsune** is a _Discord Music Bot_ written in Python that plays any song and any playlist from various popular platforms such as : ___Youtube___, ___Spotify___, ___SoundCloud___...etc.
+**Miku Hatsune** is a _Discord Music Bot_ written in Javascript that plays any song and any playlist from various popular platforms such as : ___Youtube___, ___Spotify___, ___SoundCloud___...etc.
 # Commands
 
 | Command           |Description|
