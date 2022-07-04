@@ -6,7 +6,7 @@
 |----------------|-------------------------------|
 |/play          | Play a supported link or search on Youtube|
 |/pause         | Pause Music |
-|/leav			|  Leave Channel and clear the queue. |
+|/leave			|  Leave Channel and clear the queue. |
 |/info			| Current song's info |
 |/queue         | Show the song queue |
 |/resume        | Resume song |
